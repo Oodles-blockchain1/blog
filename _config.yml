@@ -1,5 +1,6 @@
 title: "Oodles Blockchain Blog"
 description: "Stay updated with Blockchain, DeFi, NFTs & more."
+url: "https://oodles-blockchain1.github.io/blog"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
