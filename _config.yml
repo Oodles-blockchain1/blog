@@ -3,4 +3,3 @@ description: "Stay updated with Blockchain, DeFi, NFTs & more."
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
-
