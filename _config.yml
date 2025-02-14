@@ -4,4 +4,5 @@ url: "https://oodles-blockchain1.github.io/blog"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache  # ✅ Fix for the "include_cached" error
 markdown: kramdown
