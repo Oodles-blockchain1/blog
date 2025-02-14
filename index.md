@@ -1,2 +1,4 @@
-#  Welcome to Oodles Blockchain Blog  
-This is the homepage of our blog. Stay tuned for updates!
+# 🚀 Welcome to Oodles Blockchain Blog  
+
+## 📢 Latest Posts  
+- [First Blog Post](blogs/first-post.md) 
