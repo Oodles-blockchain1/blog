@@ -1,4 +1,5 @@
-# 🚀 Welcome to Oodles Blockchain Blog  
-
-## 📢 Latest Posts  
-- [First Blog Post](blogs/first-post.md) 
+---
+layout: home
+title: "Welcome to Oodles Blockchain Blog"
+author_profile: true
+---
