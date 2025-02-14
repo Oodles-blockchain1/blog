@@ -4,3 +4,4 @@ url: "https://oodles-blockchain1.github.io/blog"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
+markdown: kramdown
