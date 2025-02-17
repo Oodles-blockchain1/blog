@@ -1,8 +1,11 @@
-title: "Oodles Blockchain Blog"
-description: "Stay updated with Blockchain, DeFi, NFTs & more."
-url: "https://oodles-blockchain1.github.io/blog"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache  # ✅ Fix for the "include_cached" error
-markdown: kramdown
+  - jekyll-include-cache
+title: "Oodles Blockchain Blog"
+description: "Latest insights, innovations, and trends in blockchain technology."
+author:
+  name: "Oodles Blockchain"
+  avatar: "/assets/images/company-logo.png"
+logo: "/assets/images/company-logo.png"
+theme_skin: "default"  # Change to "dark" for a dark theme
